@@ -6,7 +6,7 @@ Anotações da aula do city - 11/03/2022 - <strong>Camadas do Desenvolvimento de
 - Saiba o que o ciente quer.
 - Entenda a necessidade do cliente.
 - Entenda o negócio por trás do cliente.
-- Regra de negócio.
+- Regras de negócio.
 
 ### Análise 
 - Processamento dos dados e informações exibidas pelo cliente.
